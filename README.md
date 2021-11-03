@@ -10,7 +10,7 @@ Phone: +8801904654712<br>
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/raselhasandurjoy/Soil-Testing-App)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-...................
+..................
 
 
 ### An android app to capture the user, location and farmss data and connect with the soil-testing device @Farmss-Product to generate the N,P,K, pH etc. (Soil parameter result) and recommend the crop based on the parameter and generate the furtilizer report.
